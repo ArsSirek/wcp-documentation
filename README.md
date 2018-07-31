@@ -1,5 +1,5 @@
 ---
-description: Wiki user guide wiki for wildcardparking.com
+description: User guide wiki for wildcardparking.com
 ---
 
 # Wildcard Parking User Guide

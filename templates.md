@@ -37,15 +37,24 @@ Other templates with unique usages, be in crypto trends or use any third site un
 ### Registrar:
 
 Unique type of templates having meaning for registrar companies.
- 
+
 * [Registrar 1](https://templates.wildcardparking.com/registrar1), [Registrar 2](https://templates.wildcardparking.com/registrar2), [Registrar 3](https://templates.wildcardparking.com/registrar3)
 
 ## Template Settings
 
+To edit any template - navigate to Templates page WCP Templates tab and pick one.
+
+![Templates Page](.gitbook/assets/my-templates-edit.png)
+
+Templates settings contain all options to customize content on the template per your needs, you can edit texts change colors and backgrounds, hide parts, but can not change the page structure much \(if you need something with your own html you could use Page Builder or contact our support team.\)
+
+![Template Settings Page](.gitbook/assets/template-edit-fields.png)
+
+You can pick a background image from one of the 3-d party photo services such as unsplash, pixabay searching their stocks by keywords 
+
+![Unsplash, Pixabay, Pixels integration](.gitbook/assets/template-edit-pick-image.png)
 
 {% hint style="info" %}
- Note: you can [login to demo account](https://wildcardparking.com/user/login?demo_login=1) to play and see how templates work 
+Note: you can [login to demo account](https://wildcardparking.com/user/login?demo_login=1) to play and see how templates settings work
 {% endhint %}
-
-
 
