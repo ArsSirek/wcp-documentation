@@ -1,6 +1,12 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [Wildcard Parking User Guide](README.md)
 * [Get Started](get-started.md)
 * [Parking options](parking-options.md)
+* [Templates](templates.md)
+* [Domain tools](domain-tools.md)
+* [Email Forwarding](email-forwarding.md)
+* [Dns Settings](dns-settings.md)
+* [Dynamic Content](dynamic-content.md)
+* [Analytic tools](analytic-tools.md)
 

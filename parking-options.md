@@ -9,7 +9,7 @@ description: How to park a new domains
 
 ## Parking via NS records
 
-Wildcardparking provides full dns support so parking with NS records is the recommended way to use the service. 
+Wildcardparking provides full dns support so parking with NS records is the recommended way to use the service.
 
 * [ ] Go to Domains page on your account to see your unique NS names.
 * [ ] Visit your registrar site to assign this NS names to desired domains
@@ -36,5 +36,4 @@ You can easily park you domain by forwarding an A record to you servers as well,
 
 If you choose to park via A records, you will have to adapt your dns yourself settings manually to use such features as email forwarding.
 {% endhint %}
-
 
