@@ -7,6 +7,6 @@
 * [Domain tools](domain-tools.md)
 * [Email Forwarding](email-forwarding.md)
 * [Dns Settings](dns-settings.md)
-* [Dynamic Content](dynamic-content.md)
 * [Analytic tools](analytic-tools.md)
+* [Offers Recived](offers-recived.md)
 
