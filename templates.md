@@ -1,2 +1,45 @@
 # Templates
 
+## Template types
+
+There are many different kind of templates and more are coming, see the full list [on the site](https://wildcardparking.com/templates).
+
+### Straight templates:
+
+Simple templates to show your domain name with style and offer it for sale. \(Or for upcoming projects on "construction pages"\)
+
+* [Whiteboard](https://templates.wildcardparking.com/whiteboard/), [Exploding Text](https://templates.wildcardparking.com/exploded_text), [Minimal](https://templates.wildcardparking.com/particles), [Countdown](https://templates.wildcardparking.com/project)
+
+### Portfolio:
+
+Allows you to list your domains grouped by extensions, with search bar and options to show statistics and prices per domain.
+
+* [Portfolio Cards](https://templates.wildcardparking.com/portfolio_cards), [Portfolio List](https://templates.wildcardparking.com/portfolio_list), [Portfolio Cloud](https://templates.wildcardparking.com/cloud)
+
+### E-commerce templates:
+
+Allows you to easily turn your key efficient domains to affiliate stores, you can use unique text descriptions per domain for better SEO optimization.
+
+* [Amazon Shop](https://templates.wildcardparking.com/amazon_shop), [Amazon Light](https://templates.wildcardparking.com/amazon1), [Ebay Shop](https://templates.wildcardparking.com/ebay_shop), [Ebay light](https://templates.wildcardparking.com/ebay1)
+
+### Fun \( attractive \)
+
+This series of templates designed to have your visitors to hand around a bit on your site. This includes web games, google map elements, animated backgrounds etc.
+
+* [Panorama](https://templates.wildcardparking.com/panorama)
+
+### Other:
+
+* crypto
+* iframe
+* * panorama
+* Particle Stream
+
+#### Registrar:
+
+Unique type of templates having meaning for registrar companies. 
+
+## Template Settings
+
+
+
