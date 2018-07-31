@@ -26,20 +26,26 @@ Allows you to easily turn your key efficient domains to affiliate stores, you ca
 
 This series of templates designed to have your visitors to hand around a bit on your site. This includes web games, google map elements, animated backgrounds etc.
 
-* [Panorama](https://templates.wildcardparking.com/panorama)
+* [Panorama](https://templates.wildcardparking.com/panorama), [Particle Stream](https://templates.wildcardparking.com/particle_stream), [Space Game](https://templates.wildcardparking.com/space_game), [Space Journey](https://templates.wildcardparking.com/space_journey), [World Map](https://templates.wildcardparking.com/world_map)
 
 ### Other:
 
-* crypto
-* iframe
-* * panorama
-* Particle Stream
+Other templates with unique usages, be in crypto trends or use any third site under iframe!
 
-#### Registrar:
+* [Crypto](https://templates.wildcardparking.com/crypto), [Iframe](https://templates.wildcardparking.com/iframe)
 
-Unique type of templates having meaning for registrar companies. 
+### Registrar:
+
+Unique type of templates having meaning for registrar companies.
+ 
+* [Registrar 1](https://templates.wildcardparking.com/registrar1), [Registrar 2](https://templates.wildcardparking.com/registrar2), [Registrar 3](https://templates.wildcardparking.com/registrar3)
 
 ## Template Settings
+
+
+{% hint style="info" %}
+ Note: you can [login to demo account](https://wildcardparking.com/user/login?demo_login=1) to play and see how templates work 
+{% endhint %}
 
 
 
